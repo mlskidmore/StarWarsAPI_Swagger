@@ -5,6 +5,8 @@ VisualStudioVersion = 17.2.32616.157
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StarWarsAPI_Swagger", "StarWarsAPI_Swagger\StarWarsAPI_Swagger.csproj", "{03619427-A032-41DC-94DA-74945185046A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StarWarsAPI_Swagger.Tests", "StarWarsAPI_Swagger.Tests\StarWarsAPI_Swagger.Tests.csproj", "{0F6E72D6-318F-4324-8337-31C1A2227DC4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{03619427-A032-41DC-94DA-74945185046A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{03619427-A032-41DC-94DA-74945185046A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{03619427-A032-41DC-94DA-74945185046A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F6E72D6-318F-4324-8337-31C1A2227DC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F6E72D6-318F-4324-8337-31C1A2227DC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F6E72D6-318F-4324-8337-31C1A2227DC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F6E72D6-318F-4324-8337-31C1A2227DC4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
